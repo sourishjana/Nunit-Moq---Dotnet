@@ -1,0 +1,6 @@
+F:\Unit Testing and Moq\9\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+F:\Unit Testing and Moq\9\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+F:\Unit Testing and Moq\9\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.AssemblyReference.cache
+F:\Unit Testing and Moq\9\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+F:\Unit Testing and Moq\9\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+F:\Unit Testing and Moq\9\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

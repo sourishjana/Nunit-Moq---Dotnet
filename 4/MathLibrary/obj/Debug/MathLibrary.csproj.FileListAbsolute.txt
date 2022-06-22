@@ -1,0 +1,6 @@
+F:\Unit Testing and Moq\4\MathLibrary\bin\Debug\MathLibrary.dll
+F:\Unit Testing and Moq\4\MathLibrary\bin\Debug\MathLibrary.pdb
+F:\Unit Testing and Moq\4\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+F:\Unit Testing and Moq\4\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+F:\Unit Testing and Moq\4\MathLibrary\obj\Debug\MathLibrary.dll
+F:\Unit Testing and Moq\4\MathLibrary\obj\Debug\MathLibrary.pdb

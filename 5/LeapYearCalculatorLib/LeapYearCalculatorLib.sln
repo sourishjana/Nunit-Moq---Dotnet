@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearCalculatorLib", "LeapYearCalculatorLib.csproj", "{A1CE81FB-E35B-468D-BC27-CB46D49D7EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUTTests", "..\SUTTests\SUTTests.csproj", "{A2AC5C2F-4FF1-439A-93CB-099D6B3E9C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CE81FB-E35B-468D-BC27-CB46D49D7EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CE81FB-E35B-468D-BC27-CB46D49D7EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CE81FB-E35B-468D-BC27-CB46D49D7EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CE81FB-E35B-468D-BC27-CB46D49D7EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AC5C2F-4FF1-439A-93CB-099D6B3E9C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AC5C2F-4FF1-439A-93CB-099D6B3E9C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AC5C2F-4FF1-439A-93CB-099D6B3E9C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AC5C2F-4FF1-439A-93CB-099D6B3E9C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E5A3D91-4609-42A3-B73D-1C69C43BF772}
+	EndGlobalSection
+EndGlobal
